@@ -1,0 +1,14 @@
+c:\Users\NS\documents\visual studio 2013\Projects\UI\BO\bin\Debug\BO.dll
+c:\Users\NS\documents\visual studio 2013\Projects\UI\BO\bin\Debug\BO.pdb
+c:\Users\NS\documents\visual studio 2013\Projects\UI\BO\bin\Debug\ENTITY.dll
+c:\Users\NS\documents\visual studio 2013\Projects\UI\BO\bin\Debug\ENTITY.pdb
+c:\Users\NS\documents\visual studio 2013\Projects\UI\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+c:\Users\NS\documents\visual studio 2013\Projects\UI\BO\obj\Debug\BO.dll
+c:\Users\NS\documents\visual studio 2013\Projects\UI\BO\obj\Debug\BO.pdb
+H:\Study\21 term\c#\Snnaping Form New\UI\BO\bin\Debug\BO.dll
+H:\Study\21 term\c#\Snnaping Form New\UI\BO\bin\Debug\BO.pdb
+H:\Study\21 term\c#\Snnaping Form New\UI\BO\bin\Debug\ENTITY.dll
+H:\Study\21 term\c#\Snnaping Form New\UI\BO\bin\Debug\ENTITY.pdb
+H:\Study\21 term\c#\Snnaping Form New\UI\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+H:\Study\21 term\c#\Snnaping Form New\UI\BO\obj\Debug\BO.dll
+H:\Study\21 term\c#\Snnaping Form New\UI\BO\obj\Debug\BO.pdb

@@ -1,0 +1,4 @@
+C:\Users\Abir\Documents\Visual Studio 2010\Snnaping Form\UI\DAL\bin\Debug\DAL.dll
+C:\Users\Abir\Documents\Visual Studio 2010\Snnaping Form\UI\DAL\bin\Debug\DAL.pdb
+C:\Users\Abir\Documents\Visual Studio 2010\Snnaping Form\UI\DAL\obj\Debug\DAL.dll
+C:\Users\Abir\Documents\Visual Studio 2010\Snnaping Form\UI\DAL\obj\Debug\DAL.pdb
